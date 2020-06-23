@@ -4,8 +4,8 @@ Tags: toyyibpay, donation
 Requires at least: 4.2
 Tested up to: 5.4.1
 Stable tag: 3.2.1
-License: GPLv3
-License URI: https://opensource.org/licenses/GPL-3.0
+License: GPLv2.1
+License URI: https://opensource.org/licenses/LGPL-2.1
 
 ToyyibPay Add-on for Give
 
